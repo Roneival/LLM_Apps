@@ -8,7 +8,7 @@ from gitsource import GithubRepositoryDataReader
 load_dotenv() 
 openai_client = OpenAI(
     api_key=os.getenv("CEREBRAS_API_KEY"),
-    base_url="https://api.groq.com/openai/v1"
+    base_url="https://api.cerebras.ai/v1"
 )
 
 def load_faq_data(): 

@@ -34,7 +34,7 @@ class RAGBase:
         instructions=INSTRUCTIONS,
         prompt_template=USER_PROMPT_TEMPLATE,
         course="llm-zoomcamp",
-        model="llama-3.3-70b-versatile"
+        model="zai-glm-4.7"
     ):
         self.index = index
         self.llm_client = llm_client
@@ -78,23 +78,25 @@ class RAGBase:
 
     def llm(self, prompt):
         input_messages = [
-            {"role": "developer", "content": self.instructions},
+            {"role": "system", "content": self.instructions},
             {"role": "user", "content": prompt}
         ]
 
-        response = self.llm_client.responses.create(
-            model=self.model,
-            input=input_messages
-        )
+        response = self.llm_client.chat.completions.create(
+                        model="zai-glm-4.7",
+                        messages= input_messages
+                )
 
-        return response.output_text
+        return response
     
 
     def rag(self, query):
         search_results = self.search(query)
         prompt = self.build_prompt(query, search_results)
-        answer = self.llm(prompt)
-        return answer
+        response = self.llm(prompt)
+        answer = response.choices[0].message.content
+        usage = response.usage.prompt_tokens # usage = input token
+        return answer, usage
     
 
 
