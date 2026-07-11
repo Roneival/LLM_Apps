@@ -1,0 +1,566 @@
+question,document
+Can I join the course llm-zoomcamp if I just found out about it?,74eb249bbf
+Is it still possible to join the course if I'm late?,74eb249bbf
+"I discovered the course late, can I still participate?",74eb249bbf
+Can I still join llm-zoomcamp and get a certificate?,74eb249bbf
+Is there still time to join the course and submit a project for a certificate?,74eb249bbf
+Do I really need to register for the LLM Zoomcamp to get accepted?,977bf7786c
+What happens if I don't receive a confirmation email after registering?,977bf7786c
+Can I start learning and submitting homework before registering for the course?,977bf7786c
+Is the registration for the LLM Zoomcamp actually required to participate?,977bf7786c
+How does registration affect my ability to submit homework and participate in the course?,977bf7786c
+How do I join the Office Hours or live/workshop sessions?,489dd1c9d9
+Can I get the zoom link for the live sessions?,489dd1c9d9
+Where can I find the video link for the live sessions?,489dd1c9d9
+How do I ask questions during the live sessions?,489dd1c9d9
+Can I watch the live sessions on YouTube?,489dd1c9d9
+What's the best way to begin the LLM Zoomcamp course?,04919992b3
+Do I have to start the course on a specific date or can I begin whenever I want?,04919992b3
+What is the typical weekly workflow for the course?,04919992b3
+Where can I find the course materials and homework instructions?,04919992b3
+How do I submit my homework assignments for the course?,04919992b3
+How do I find my position on the leaderboard?,c2903069a0
+What is the purpose of the display name on the leaderboard?,c2903069a0
+Can I change my display name on the leaderboard?,c2903069a0
+What name will appear on my course certificate?,c2903069a0
+How do I know if my name on the certificate is correct?,c2903069a0
+Can I get a certificate if I do the course on my own?,69d122f12e
+Is it possible to get a certificate without being part of a live cohort?,69d122f12e
+Do I need to be in a live cohort to get a certificate?,69d122f12e
+Can I still get a certificate if I'm doing the course self-paced?,69d122f12e
+What are the requirements to get a certificate in this course?,69d122f12e
+Can I still get a certificate if I miss some homework?,9f689c185f
+Is homework mandatory to get a certificate in this course?,9f689c185f
+What are the requirements to get a certificate in this course?,9f689c185f
+Will missing homework affect my ability to get a certificate?,9f689c185f
+Do I need to complete all homework to get a certificate?,9f689c185f
+What does it mean if a homework title has [DRAFT] in it?,96286b4be4
+Why does homework content keep changing?,96286b4be4
+How do I know if the homework is ready to start working on?,96286b4be4
+Can I start working on homework before it's officially ready?,96286b4be4
+What are the conditions for homework to be considered ready?,96286b4be4
+When is the next offering of this course?,bd31146b0e
+Will the course be available again after summer 2027?,bd31146b0e
+Can I take the course at a different time?,bd31146b0e
+How often is the course offered?,bd31146b0e
+What is the schedule for future course offerings?,bd31146b0e
+Where can I find the lecture videos for this course?,31456f4b5f
+Are there videos for each lesson and how do I access them?,31456f4b5f
+What is the best way to find the course materials and videos?,31456f4b5f
+Can I find all the lectures in one place and where is it?,31456f4b5f
+How do I know where to look for the videos for each lesson?,31456f4b5f
+How do I keep track of LLM Zoomcamp deadlines and homework?,20c5a1347e
+Where can I find the syllabus for LLM Zoomcamp?,20c5a1347e
+What platform does LLM Zoomcamp use for course management?,20c5a1347e
+How can I track my progress in LLM Zoomcamp?,20c5a1347e
+Is there a central place to view LLM Zoomcamp structure and assignments?,20c5a1347e
+Are there live sessions for every module or just some?,d65e05bd7a
+"What if I get stuck in a module, how can I get help?",d65e05bd7a
+Are there office hours available for this course?,d65e05bd7a
+Can I get extra support if I'm having trouble with the course material?,d65e05bd7a
+Is there a paid option for more support and structure in this course?,d65e05bd7a
+Can I use Bluesky posts to get learning in public credits?,dbf5369006
+Is Bluesky accepted for learning in public credits in this course?,dbf5369006
+Can I earn learning in public credits through Bluesky?,dbf5369006
+Are Bluesky posts eligible for learning in public credits?,dbf5369006
+How do I use Bluesky to get learning in public credits?,dbf5369006
+How do I join the LLM Zoomcamp Telegram channel?,054f3fd58f
+What is the LLM Zoomcamp Telegram channel used for?,054f3fd58f
+Is there a technical discussion channel for the course?,054f3fd58f
+Where can I ask technical questions about the course?,054f3fd58f
+What channel is used for course announcements?,054f3fd58f
+Why is the number of records in the FAQ dataset different from what's shown in the videos?,e2d595f23c
+Will the FAQ dataset keep changing over time?,e2d595f23c
+Are the videos and dataset updated at the same time?,e2d595f23c
+Why were the videos recorded in May 2026 and not more recently?,e2d595f23c
+Can I use the videos as a reference for the current dataset?,e2d595f23c
+What happens if I submit homework after the deadline?,a9353fadfe
+Can I still turn in my assignment if the form is open?,a9353fadfe
+Is it okay to submit late as long as the form is still open?,a9353fadfe
+Will I be able to submit my homework if the deadline has passed?,a9353fadfe
+Can I still submit my answers if the homework form is still open?,a9353fadfe
+What happens if I miss the homework deadline?,cdc3b285e5
+Can I still submit homework after the deadline has passed?,cdc3b285e5
+Are deadline extensions given for homework submissions?,cdc3b285e5
+Will missing homework affect my course certificate?,cdc3b285e5
+What are homework points used for in the course?,cdc3b285e5
+Will my certificate name be public?,651ba06b34
+Can I keep my real name off the leaderboard?,651ba06b34
+How do I set my certificate name and display name?,651ba06b34
+Is my display name on the leaderboard my real name?,651ba06b34
+Where can I change my public nickname and certificate name?,651ba06b34
+"What if I already know how to use Langchain, can I still learn from this course?",b7cdde6b25
+Will we be using Langchain in later modules of the course?,b7cdde6b25
+How long does it take to build the core pieces ourselves before moving to a framework like Langchain?,b7cdde6b25
+Are there any benefits to learning from scratch instead of using a framework from the beginning?,b7cdde6b25
+Can I still build LLM-powered apps after completing this course without using Langchain?,b7cdde6b25
+What happens if I run out of credits on my OpenAI account while using the responses.create command?,f5df151c59
+Why does the OpenAI responses.create command give an insufficient credits error?,f5df151c59
+How do I fix the OpenAI API Error: Insufficient credits when running responses.create?,f5df151c59
+What error will I get if my OpenAI account doesn't have enough credits for responses.create?,f5df151c59
+Can I still use the OpenAI responses.create command if my account has no credits left?,f5df151c59
+What does the OpenAI error code 429 mean and how do I fix it?,152af39a53
+"I'm getting a RateLimitError when using the OpenAI API, what should I do?",152af39a53
+How can I resolve the insufficient quota error when making API calls to OpenAI?,152af39a53
+Do I need to pay for OpenAI API usage and how do I add funds to my account?,152af39a53
+What are the steps to fix the error code 429 and successfully run my Python command with OpenAI API?,152af39a53
+How much does it cost to use the Open AI API for this course?,554d0eb78b
+What is the minimum amount I need to recharge for OpenAI API usage?,554d0eb78b
+Will I be charged a lot for using OpenAI API in this course?,554d0eb78b
+Can I really use OpenAI API for less than a cent?,554d0eb78b
+What is the cheapest recharge option for OpenAI API?,554d0eb78b
+Do I need to pay for OpenAI API to complete course homework?,85384a18e5
+Can I use free alternatives for OpenAI API in this course?,85384a18e5
+Are there any low-cost options for OpenAI API for this course?,85384a18e5
+Is it mandatory to subscribe to OpenAI API for the course?,85384a18e5
+Where can I find alternatives to OpenAI API for the course?,85384a18e5
+What makes uv faster than pip and virtualenv for managing Python packages?,f81dea8f7e
+Can I still use pip and virtualenv if I don't want to use uv for my project?,f81dea8f7e
+How does uv manage different Python versions and virtual environments?,f81dea8f7e
+Is uv compatible with all Python packages and libraries out there?,f81dea8f7e
+Do I have to use uv for this course or can I stick with pip and virtualenv?,f81dea8f7e
+Why isn't my OPENAI_API_KEY showing up in Jupyter notebook?,86d99bbf21
+How do I load my OPENAI_API_KEY in a Jupyter notebook?,86d99bbf21
+What do I need to install to use my OPENAI_API_KEY in Jupyter?,86d99bbf21
+"I'm getting an error that my OPENAI_API_KEY isn't found, what should I check?",86d99bbf21
+How do I make sure my OPENAI_API_KEY is recognized in Jupyter?,86d99bbf21
+How do I keep my API keys safe while using them in my project?,233dabe430
+"What's the best way to store API keys for OpenAI, Groq, and Gemini?",233dabe430
+How can I load API keys from a .env file in Python?,233dabe430
+What should I add to my .gitignore file to prevent API keys from being committed?,233dabe430
+How do I use the python-dotenv library to load environment variables?,233dabe430
+What if I want to use a different model than the one recommended for the homework?,ee43413718
+Can I use a paid service for this homework or do I need a free one?,ee43413718
+Do I have to use OpenAI or are there other options?,ee43413718
+How do I know which model providers are compatible with the homework?,ee43413718
+Will I need to change the code if I use a different provider?,ee43413718
+How do I integrate Google Gemini models into my Module 1 notebook using the OpenAI-compatible endpoint?,0ae5c221b9
+What are the prerequisites to use Google Gemini models through the OpenAI-compatible endpoint in Module 1?,0ae5c221b9
+"Can I use Google Gemini models with the OpenAI client in my notebook, and if so, how?",0ae5c221b9
+What code changes do I need to make to use the Google Gemini model with the OpenAI-compatible endpoint in Module 1?,0ae5c221b9
+Do I need to modify the notebook code to handle model responses and tool calls when using Google Gemini models?,0ae5c221b9
+How do I use the OpenAI SDK to get structured output from Gemini through the OpenAI-compatible endpoint?,341f71f28c
+Can I use Pydantic objects with Gemini's chat-completions endpoint?,341f71f28c
+What is the alternative to Responses API for parsing structured output from Gemini?,341f71f28c
+How can I define a Pydantic model for the structured output I want Gemini to return?,341f71f28c
+What are the requirements for using chat.completions.parse with Gemini and Pydantic?,341f71f28c
+What's the best way to install Ollama on my Mac?,1d0b969028
+How do I get Ollama running on Windows?,1d0b969028
+What are the steps to install Ollama on Linux?,1d0b969028
+How do I test if my Ollama local server is working properly?,1d0b969028
+Do I need to install anything else to use Ollama with Python?,1d0b969028
+What does a Connection refused error when prompting Ollama RAG mean?,c6fc2d4d11
+How do I fix a Connection refused error with Ollama RAG?,c6fc2d4d11
+What command can I use to restart the Ollama server?,c6fc2d4d11
+What happens if I stop and restart the notebook cell with ollama serve?,c6fc2d4d11
+How do I run the ollama serve command in the background?,c6fc2d4d11
+Why do token counts from tiktoken and OpenAI's API not match?,bf0403d21b
+What causes the difference in token count reported by OpenAI and my local count?,bf0403d21b
+"I'm getting a different token count with tiktoken than OpenAI's API, what's going on?",bf0403d21b
+Can you explain why OpenAI's token count is more than what I counted locally?,bf0403d21b
+Why does OpenAI add extra tokens that aren't visible in my prompt?,bf0403d21b
+How can I set API keys once and not re-export them every time I open a new terminal?,8b2f5e9d04
+What tool can I use to load my API keys automatically when I navigate to my project directory?,8b2f5e9d04
+"I'm using direnv, can I use it to load my API keys instead of dirdotenv?",8b2f5e9d04
+How do I keep my API keys secure and prevent them from being committed to GitHub?,8b2f5e9d04
+What's the best way to load API keys in my Python scripts?,8b2f5e9d04
+What's the best way to choose field weights for search engines like minsearch?,87d4ea4e08
+How do I know which field weights to use for optimal search results?,87d4ea4e08
+Is there a systematic approach to setting field weights in minsearch?,87d4ea4e08
+Can I just use trial and error to find good field weights or is there a better method?,87d4ea4e08
+How do I evaluate if my field weights are good for a search engine?,87d4ea4e08
+What are the steps to prepare documents for RAG?,649c280e6d
+How do I clean my data for RAG?,649c280e6d
+What format should I store my processed documents in?,649c280e6d
+How should I chunk my documents for better retrieval?,649c280e6d
+What kind of metadata should I keep for my documents?,649c280e6d
+What happens when uv fails to hardlink files in Codespaces?,acf8fa5356
+Does uv installation still work if it fails to hardlink files?,acf8fa5356
+How can I suppress the uv warning about hardlinking files in Codespaces?,acf8fa5356
+How do I make the UV_LINK_MODE setting persistent in my Codespaces environment?,acf8fa5356
+Where can I find more information about uv's hardlinking issue in Codespaces?,acf8fa5356
+What do I need to install for dotenv to work?,0bed1f48da
+How do I use dotenv in my Python project?,0bed1f48da
+"dotenv is not recognized, what is the solution?",0bed1f48da
+How do I import dotenv in Python?,0bed1f48da
+What package should I use to load environment variables from a .env file?,0bed1f48da
+How do I set up my local environment for this course?,aa310de435
+What tools do I need to run the course on my own computer?,aa310de435
+Is it hard to run the course locally instead of using Codespaces?,aa310de435
+Can I use my own Python environment for the course?,aa310de435
+What if my local setup doesn't work like Codespaces?,aa310de435
+What happens to my code in Codespaces if I don't commit it?,610ccb23c0
+"If I don't commit my code in Codespaces, is it still saved somewhere?",610ccb23c0
+Does Codespaces save my code if I forget to commit it?,610ccb23c0
+"What if I don't commit my code in Codespaces, does it get lost?",610ccb23c0
+Is my code in Codespaces still safe if I don't commit it to GitHub?,610ccb23c0
+Why does WSL2 say my model needs more system memory than I have available when my system actually has enough?,f3dd94f323
+How do I increase the RAM allocated to WSL2 to run memory-intensive models?,f3dd94f323
+What file do I need to create in my Windows user profile to change WSL2 memory settings?,f3dd94f323
+How do I restart WSL2 after changing its configuration files?,f3dd94f323
+How can I verify that WSL2 has allocated more memory after making changes?,f3dd94f323
+What do I do if my Codespace is stuck on 'Finishing up' and won't reconnect?,830f3d2018
+How can I recover my setup if it disappears in GitHub Codespaces?,830f3d2018
+Is there a way to fix Codespace reliability issues or should I try something else?,830f3d2018
+What happens to my uncommitted changes if I stop or delete my Codespace?,830f3d2018
+Can I run this course on my local machine instead of using Codespaces?,830f3d2018
+Can I use a different LLM provider other than OpenAI for this course?,c6ff9083c0
+"What if OpenAI is blocked in my region, are there any alternatives?",c6ff9083c0
+Do I need to change the code if I want to use a different LLM provider?,c6ff9083c0
+Can I run a model locally instead of using an external API?,c6ff9083c0
+Are there any resources that list alternative LLM providers I can use?,c6ff9083c0
+What are some strategies to prevent hitting OpenAI rate limits while working on course notebooks?,8e21752415
+How can I modify the OpenAI Python client to handle 429 errors automatically?,8e21752415
+Is there a way to reduce the number of API calls when processing multiple documents in a notebook?,8e21752415
+Can I use a different OpenAI model or provider to avoid rate limits during the course?,8e21752415
+What should I do if I'm seeing 'insufficient_quota' errors instead of rate limits?,8e21752415
+What's the difference between tools and functions in agentic RAG?,c296ea5a21
+How does agentic RAG decide when to use a tool or function?,c296ea5a21
+Can you give examples of tools or functions used in agentic RAG?,c296ea5a21
+Is retrieval a fixed step in agentic RAG like it is in basic RAG?,c296ea5a21
+What happens when a model needs external help in agentic RAG?,c296ea5a21
+What free models support tool use?,0d74a3616f
+Can I use tool use for free?,0d74a3616f
+Are there any free models with tool use support other than OpenAI?,0d74a3616f
+How do I use tool use with free models?,0d74a3616f
+Do I need to adapt code for free models with tool use?,0d74a3616f
+I'm getting an AttributeError when using OpenAI's Responses API with a non-OpenAI model. What's going on?,9e7b3f0c25
+How do I fix the 'str' object has no attribute 'output' error when using a non-OpenAI model with OpenAI's Responses API?,9e7b3f0c25
+Can I use the Responses API with non-OpenAI providers like Mistral or Gemini?,9e7b3f0c25
+What API should I use for non-OpenAI providers to get the response content?,9e7b3f0c25
+Is it okay to use the older chat.completions API for homework if my provider supports it better?,9e7b3f0c25
+"I'm getting an Error code: 400 with a missing required parameter: 'tools[0].function' when using Azure OpenAI, what should I do?",b9c7c6bb34
+"My Azure OpenAI error says 'Missing required parameter: 'tools[0].function'', how do I fix this?",b9c7c6bb34
+What does 'Missing required parameter: 'tools[0].function'' error in Azure OpenAI mean and how to resolve it?,b9c7c6bb34
+"I'm using Azure OpenAI and getting an error about a missing 'tools[0].function' parameter, can someone help?",b9c7c6bb34
+How do I modify my Azure OpenAI tool to fix the 'Missing required parameter: 'tools[0].function'' error?,b9c7c6bb34
+How to use toyaikit with Groq without getting a 404 error?,0224d980b3
+Can I use toyaikit with Anthropic instead of OpenAI?,0224d980b3
+What is the correct way to use toyaikit with non-OpenAI providers?,0224d980b3
+How do I switch from OpenAI to Groq in toyaikit?,0224d980b3
+What are the differences in using toyaikit with OpenAI vs Anthropic?,0224d980b3
+How do I access the homework questions for Module 1?,53f15299b6
+Are the homework questions available on the course platform?,53f15299b6
+Where can I find more context for the homework instructions?,53f15299b6
+Can I submit my homework through GitHub?,53f15299b6
+What is the best place to check for homework deadlines?,53f15299b6
+Why does my query return an empty list after filtering in HW Q3?,83da208a64
+How do I fix the indexing error that's causing my query to return nothing?,83da208a64
+What do I need to do before applying filters and queries to my data?,83da208a64
+Why do I have to add index settings before adding data for my query to work?,83da208a64
+What are the steps to resolve the issue of getting an empty list when filtering my query?,83da208a64
+Why does OpenRouter return a 402 error when calling responses.create?,cfb07a27d5
+How do I fix the OpenRouter 402 error when calling responses.create?,cfb07a27d5
+What is the recommended max_output_tokens limit for Module 1 homework?,cfb07a27d5
+Why does OpenRouter behave differently from OpenAI in terms of error handling?,cfb07a27d5
+What should I do if I still encounter issues with OpenRouter after setting max_output_tokens?,cfb07a27d5
+What happens if I point RAG at the full documents instead of the chunk index in the homework?,b4300adeb1
+How do I build and search the index using the chunked documents?,b4300adeb1
+What is the purpose of using chunked documents when building the index?,b4300adeb1
+Can I use the original full documents to fit the search index?,b4300adeb1
+How does pointing RAG at the chunk index reduce the context sent to the model?,b4300adeb1
+What if my homework answer is close to but not exactly one of the options?,5e4ca64cb5
+Are there cases where my numeric answer doesn't have to match an option exactly?,5e4ca64cb5
+How do I handle small differences between my answer and the given options?,5e4ca64cb5
+What should I do if my answer doesn't match any option closely?,5e4ca64cb5
+How can I determine if my answer is close enough to one of the provided options?,5e4ca64cb5
+What do I do if homework questions are unclear?,7d3a2e3505
+How do I find the homework instructions for Module 1?,7d3a2e3505
+Can I ask for help on Slack if I don't understand the homework?,7d3a2e3505
+What should I include when asking for help on Slack?,7d3a2e3505
+Where can I find guidelines for asking questions on Slack?,7d3a2e3505
+"What if I'm using a different AI provider for my Module 1 homework, how do I get the token count then?",fe8fed31e6
+Can I use tiktoken for token count with providers like Gemini or Mistral?,fe8fed31e6
+How do I find token usage information if my provider doesn't expose it directly?,fe8fed31e6
+What should I do if my provider doesn't return usage information like input_tokens?,fe8fed31e6
+"Is there a universal way to get token counts for all providers, or do I need to check each one separately?",fe8fed31e6
+What if my homework submission is rejected with a non-200 status code?,bcdb8740ce
+How do I make my repo URL publicly reachable?,bcdb8740ce
+Why does my repo URL return a 500 status code when submitted?,bcdb8740ce
+Can I submit a private repo URL for homework?,bcdb8740ce
+What if I accidentally add .git to the end of my repo URL?,bcdb8740ce
+What exactly does converting non-numerical data into numerical data mean?,69430a79a8
+How do I know if my data is suitable for embeddings?,69430a79a8
+What kind of algorithms are used for creating embeddings?,69430a79a8
+Can embeddings be used for text data only?,69430a79a8
+How do embeddings help in finding similar data?,69430a79a8
+How do I get rid of the warning about model 'multi-qa-mpnet-base-dot-v1' being made on sentence transformers v3.0.0 beta?,aa3f597424
+What do I need to do to suppress the warning about sentence transformers version mismatch?,aa3f597424
+Is there a way to silence the warning about model version compatibility?,aa3f597424
+What version of sentence-transformers do I need to install to avoid this warning?,aa3f597424
+How can I upgrade sentence-transformers to the version that is compatible with the model?,aa3f597424
+Why did the lesson use .dot to compute cosine similarity but the homework required normalization?,92cd22cada
+Can I use dot product as cosine similarity if my embeddings are already unit length?,92cd22cada
+What kind of embeddings need to be normalized before computing cosine similarity?,92cd22cada
+Are model encode embeddings from OpenAI already normalized to unit length?,92cd22cada
+Do I need to normalize classic embeddings like TF-IDF + SVD for cosine similarity?,92cd22cada
+"When doing vector search, what exactly should I embed - the question, the answer, or both?",5c4a8d2e60
+"Is it better to embed just the answer, just the question, or a combination of both for vector search?",5c4a8d2e60
+"For vector search, should I embed the question, the answer, or concatenate them and embed the result?",5c4a8d2e60
+"What are the different approaches to embedding data for vector search, and which one should I use?",5c4a8d2e60
+"How do I decide whether to embed the question, the answer, or both in vector search for best results?",5c4a8d2e60
+What does a cosine similarity of 1 mean between two vectors?,db78580409
+How is cosine similarity used in text analysis?,db78580409
+Can cosine similarity be used for vectors with zero magnitude?,db78580409
+What is the range of values for cosine similarity?,db78580409
+Is cosine similarity suitable for comparing documents with different lengths?,db78580409
+What is cosine similarity and how does it work?,95feb4e75b
+Why do we normalize vectors to unit length in cosine similarity?,95feb4e75b
+How does cosine similarity relate to dot product?,95feb4e75b
+What makes matrix multiplication efficient for computing similarities?,95feb4e75b
+Why does cosine similarity reduce to a simple dot product for unit vectors?,95feb4e75b
+Do I need to create a new GitHub repository for each module or just a new codespace?,1e829a8c6f
+Can I use the same codespace for multiple modules?,1e829a8c6f
+What happens if I don't commit my code in Codespaces and I delete it later?,1e829a8c6f
+Is it necessary to create a separate codespace for Module 2 due to its dependencies?,1e829a8c6f
+How do I set up a new codespace for Module 2 without creating a new GitHub repo?,1e829a8c6f
+Why does download.py get stuck at 0% when trying to download model.onnx from HuggingFace?,29b69fbe0b
+What causes download.py to hang at 0% when downloading model.onnx?,29b69fbe0b
+How do I fix the issue with download.py hanging at 0% when downloading model.onnx from HuggingFace?,29b69fbe0b
+Is there an alternative way to download model.onnx if download.py hangs at 0%?,29b69fbe0b
+What can I do if download.py is not downloading model.onnx from HuggingFace and is stuck at 0%?,29b69fbe0b
+Why are matrix and for-loop vector search results slightly different?,e889793af9
+Is the difference in vector search results due to a bug?,e889793af9
+How can I compare vector search results from matrix and for-loop methods?,e889793af9
+What causes floating-point precision issues in vector search?,e889793af9
+How do I account for floating-point precision when comparing vector search scores?,e889793af9
+"I'm getting an IndexError when trying to access the best chunk, what's going on?",1a7b27c4df
+Why does my list index out of range error occur when I'm trying to get the best chunk?,1a7b27c4df
+"I'm generating embeddings and getting an IndexError, is there a mismatch in my data?",1a7b27c4df
+How can I avoid getting an IndexError when accessing chunks in my embedding list?,1a7b27c4df
+What could be the reason for an IndexError when I'm trying to access the best chunk from my embeddings?,1a7b27c4df
+What if my cosine similarity doesn't match any options in Q2 of Module 2 homework?,eaa17a9dc6
+How do I fix my Module 2 homework if my cosine similarity isn't among the given options?,eaa17a9dc6
+What embedding model should I use for Module 2 homework Q2?,eaa17a9dc6
+Why is my cosine similarity in Module 2 homework Q2 not matching any of the provided options?,eaa17a9dc6
+What are common mistakes to avoid when doing Module 2 homework Q2 to get the correct cosine similarity?,eaa17a9dc6
+What are the steps to configure API keys for Kestra module?,3860e5fe8b
+How do I export environment variables for Gemini API key?,3860e5fe8b
+What is the purpose of base64-encoding the API keys?,3860e5fe8b
+Can I reference secrets with the 'SECRET_' prefix in a flow?,3860e5fe8b
+How do I restart Kestra to pick up the new environment variables?,3860e5fe8b
+What does Kestra AI Copilot's 'I can only assist with creating Kestra flows' message mean?,04440cab11
+How do I set the GEMINI_API_KEY for Kestra AI Copilot?,04440cab11
+Why is Kestra AI Copilot still not working after setting GEMINI_API_KEY?,04440cab11
+Can I use the same API key for Kestra AI Copilot and agent flows?,04440cab11
+What should I do if I've hit the free-tier quota for Google AI Studio?,04440cab11
+Why does my Kestra flow still fail with an invalid key even though I set SECRET_GEMINI_API_KEY?,c8ca21af33
+How do I properly encode my Gemini API key to use in Kestra?,c8ca21af33
+What do I need to do after exporting SECRET_GEMINI_API_KEY for Kestra to use it?,c8ca21af33
+How should I reference my secret API key in Kestra flows?,c8ca21af33
+Can I use a .env file to pass my API key to Kestra instead of exporting it?,c8ca21af33
+Why can't I just run my code in a notebook instead of using orchestration?,193612db63
+What makes Kestra different from just running scripts in notebooks?,193612db63
+Do I really need scheduling and retries for my AI workflows?,193612db63
+Can I use Kestra with different AI providers like OpenAI or Gemini?,193612db63
+How does Kestra help with managing secrets and chaining tasks together?,193612db63
+Is Kestra the only orchestrator I can use for the LLM Zoomcamp course?,cce328db64
+Can I use Airflow instead of Kestra for the Module 3 homework?,cce328db64
+Do I have to use Kestra for the capstone project?,cce328db64
+Are there any restrictions on the orchestrator I can use for the capstone project?,cce328db64
+Can I use a plain Python script for the ingestion pipeline in the capstone project?,cce328db64
+What are the AI providers supported by Kestra's AI plugin besides Gemini?,f442efe5b4
+Can I use Groq or Ollama with Kestra's AI plugin?,f442efe5b4
+How do I use a local model with Kestra's AI plugin?,f442efe5b4
+What are the two ways to use AI in Kestra and what are the differences between them?,f442efe5b4
+Can I use provider-specific plugins like plugin-gemini or plugin-openai with Kestra?,f442efe5b4
+Is there a no-code option for using Kestra or do I have to write code?,bfe5502c30
+Can I build a Kestra flow without writing any YAML or code?,bfe5502c30
+What are my options for creating a Kestra flow without coding?,bfe5502c30
+Does Kestra offer a drag-and-drop interface for building flows or is it only form-based?,bfe5502c30
+How does Kestra compare to tools like Zapier or n8n in terms of ease of use and features?,bfe5502c30
+Why does ChatGPT generate Kestra flow YAML with properties that don't exist?,93a3e8b98c
+How can I avoid generating invalid Kestra flow YAML with AI?,93a3e8b98c
+What are the differences between the properties generated by AI and the actual properties in Kestra?,93a3e8b98c
+Can I use the built-in AI Copilot to generate Kestra flow YAML?,93a3e8b98c
+How do I validate if the generated YAML is correct and will run as expected in my Kestra environment?,93a3e8b98c
+What is the main reason for monitoring token usage in Kestra workflows?,a4adc70f41
+How does tracking token usage help with prompt optimization?,a4adc70f41
+Why is token usage monitoring necessary for long-running or looping flows?,a4adc70f41
+How can I keep track of token usage for each AI task in a Kestra flow?,a4adc70f41
+What are the consequences of not monitoring token usage in Kestra workflows?,a4adc70f41
+What does 'mounts denied: The path /tmp/... is not shared from the host' error in Docker mean?,dd8b4c9fda
+How do I add a path to Docker Desktop's file sharing list?,dd8b4c9fda
+Why does Docker Desktop need access to the host path for a container?,dd8b4c9fda
+What should I do after adding a path to Docker Desktop's file sharing list?,dd8b4c9fda
+How do I restart Kestra after fixing the Docker file sharing issue?,dd8b4c9fda
+What exactly do I need to submit for the Module 3 homework if I did everything in Kestra?,f29f622684
+Do I need to put my Kestra flow files in a specific folder in the repo?,f29f622684
+Can I just upload my Kestra flows to a private repo and share the link?,f29f622684
+"What if my Kestra flows call scripts that I wrote, do I need to include those too?",f29f622684
+Is a README file required for the submission or can I just upload the flow files?,f29f622684
+Why does json.loads() fail when generating ground-truth questions with LLM?,a3c7e1b4f9
+How can I force JSON output from OpenAI's chat completion?,a3c7e1b4f9
+What is the best way to specify the expected output format in a prompt?,a3c7e1b4f9
+What are some equivalent ways to get JSON output from other LLM providers?,a3c7e1b4f9
+How do I fix JSONDecodeError when getting response from LLM?,a3c7e1b4f9
+"My Jupyter kernel keeps crashing when I try to embed the ground-truth set, what's going on?",b8f2d6a30c
+"I'm getting a memory error when loading an embedding model in my notebook, any solutions?",b8f2d6a30c
+Is there a way to avoid running out of memory when using a large embedding model in my notebook?,b8f2d6a30c
+"I want to switch to a smaller embedding model, will that affect my evaluation metrics?",b8f2d6a30c
+How can I free up memory in my notebook when processing a large ground-truth set?,b8f2d6a30c
+What are the rate limits for the free tier of Gemini and how can I avoid hitting them while generating a ground-truth dataset?,c1e9f4b820
+Is there a cheap alternative to Gemini for generating the ground-truth dataset that has higher rate limits?,c1e9f4b820
+Can I use Groq's free tier for generating the ground-truth dataset and what are its benefits?,c1e9f4b820
+How can I modify my code to lower concurrency for thread-pool calls and avoid hitting the rate limits?,c1e9f4b820
+What can I do if I hit the rate limit while generating the ground-truth dataset and lose my progress?,c1e9f4b820
+"I'm getting an OSError when trying to import torch in Windows, what can I do to fix it?",15e931476c
+"The error message says a module could not be found in torch, how do I resolve this?",15e931476c
+"I've installed PyTorch but still getting an error about a missing dll, what's the solution?",15e931476c
+What are the possible solutions to the OSError [WinError 126] when importing torch in Windows?,15e931476c
+"I'm getting an error loading fbgemm.dll when importing torch, how can I fix this issue?",15e931476c
+"I'm getting an OperationalError when running python prep.py, it says it can't find the host postgres, what do I do?",4b65d5542d
+How do I fix the error that says it can't translate host name postgres to address?,4b65d5542d
+"I'm running into an issue with psycopg2 when running python prep.py, how can I resolve the OperationalError?",4b65d5542d
+What do I do when I get an error saying could not translate host name postgres to address?,4b65d5542d
+"Getting OperationalError when running python prep.py, how do I change the host name to fix it?",4b65d5542d
+How do I make pandas display the full text in a column?,641aedbbf5
+What is the pandas setting to show entire text content in a column?,641aedbbf5
+How can I stop pandas from truncating text in a column?,641aedbbf5
+What is the default character limit for text in a pandas column?,641aedbbf5
+How do I change the max width of a column in pandas to show full text?,641aedbbf5
+What's the best way to normalize vectors in a Pandas DataFrame column?,5039707c1a
+How do I normalize a Pandas Series using Python?,5039707c1a
+Can I use NumPy to normalize vectors in a Pandas DataFrame?,5039707c1a
+What's the simplest way to apply vector normalization to a Pandas DataFrame column?,5039707c1a
+How do I normalize vectors using L2 norm in a Pandas DataFrame?,5039707c1a
+What is the Python code to calculate the 75th percentile of a column in a Pandas DataFrame?,b4c8ac5a0c
+How do I find the 0.75 quantile of a Pandas Series?,b4c8ac5a0c
+Can I use the quantile function to get the percentile of a DataFrame column?,b4c8ac5a0c
+What is the syntax to compute the 75% percentile of a Pandas DataFrame column?,b4c8ac5a0c
+How to get the 75th percentile value from a Pandas DataFrame column using Python?,b4c8ac5a0c
+How do I delete all running and stopped Docker containers at once?,66ccbb7da0
+What is the command to remove all Docker images?,66ccbb7da0
+Can I delete all Docker volumes with a single command?,66ccbb7da0
+"How do I clean up my Docker environment by removing containers, images, and volumes?",66ccbb7da0
+What are the steps to completely reset my Docker setup?,66ccbb7da0
+How can I limit user feedback to once per submission in Streamlit?,2e729f1271
+Why does `st.session.submitted` get reset to False after submitting a form?,2e729f1271
+Is there a way to disable feedback buttons after a user submits a form?,2e729f1271
+Can I use `st.session.submitted` to track if a user has given feedback before?,2e729f1271
+How do I prevent multiple feedback submissions from the same user in Streamlit?,2e729f1271
+Why does my Streamlit app work outside of docker-compose but not inside?,e8df9f0d12
+What do I do if I get an 'executable file not found in $PATH' error when running Streamlit with docker-compose?,e8df9f0d12
+"How can I fix the docker-compose error 'unable to start container process: exec: ""streamlit"": executable file not found in $PATH'?",e8df9f0d12
+What are the steps to resolve the 'OCI runtime create failed' error when trying to run a Streamlit app with docker-compose?,e8df9f0d12
+Do I need to rebuild my Docker image when I make changes to my Streamlit app and I'm using docker-compose?,e8df9f0d12
+Is the capstone project a team effort or do we work individually?,0fab61eca2
+Can I work with others on the capstone project?,0fab61eca2
+Do I have to do the capstone project alone?,0fab61eca2
+How does collaboration work for the capstone project?,0fab61eca2
+Can I discuss my capstone project idea with other students?,0fab61eca2
+Do I need to submit two projects for the capstone?,d5fc98925d
+What happens if my first project submission fails?,d5fc98925d
+Can I use the same dataset for both project submissions?,d5fc98925d
+"What if I miss the first submission window, do I still have a chance?",d5fc98925d
+Does participating in peer review affect my certification?,d5fc98925d
+Is the competition a required part of the capstone project?,e892d44e42
+Can I do the competition with a team or do I have to do it alone?,e892d44e42
+Does participating in the competition give me credit for the capstone?,e892d44e42
+Do I have to participate in the competition as part of the capstone?,e892d44e42
+Can I work on the capstone with a team or does it have to be individual?,e892d44e42
+How does the capstone project evaluation work in this course?,9a2e2d2008
+Will I be grading other students' projects and will they be grading mine?,9a2e2d2008
+What happens if I don't participate in grading my fellow students' projects?,9a2e2d2008
+How is the final grade for the capstone project determined?,9a2e2d2008
+What criteria will be used to evaluate the capstone projects?,9a2e2d2008
+When do we get assigned projects to review and grade?,eae0fb50aa
+How are the projects for review and grading assigned to us?,eae0fb50aa
+What happens after the project submission deadline?,eae0fb50aa
+Can I know in advance which projects I'll be reviewing?,eae0fb50aa
+How many projects will each of us be reviewing?,eae0fb50aa
+Why can't I review projects before they're assigned to me?,a8a7fef016
+Can I choose which projects I want to evaluate?,a8a7fef016
+"I've submitted my project, when can I start reviewing others?",a8a7fef016
+Is it possible to review projects before the submission deadline?,a8a7fef016
+How are projects assigned for evaluation?,a8a7fef016
+What are some good resources for finding project ideas and datasets?,e76a70cde3
+How do I come up with ideas for the capstone project?,e76a70cde3
+Where can I find datasets for my project?,e76a70cde3
+Can you provide some tips for choosing a project idea?,e76a70cde3
+Are there any guidelines for selecting a dataset for the project?,e76a70cde3
+Do I really need an orchestration tool for the capstone project?,d4f7c08ea1
+Can I just use a plain Python script for the ingestion pipeline?,d4f7c08ea1
+Will using a Jupyter notebook instead of a Python script affect my grading?,d4f7c08ea1
+When should I actually use an orchestrator like Airflow or Mage?,d4f7c08ea1
+Is it true that using an orchestrator only for the sake of scoring points is not recommended?,d4f7c08ea1
+How do I evaluate a recommender-style RAG when there's no obvious Q&A ground truth?,9b0e2d6a47
+What methods can I use to evaluate a RAG system without clear Q&A pairs?,9b0e2d6a47
+Can I use LLMs to generate synthetic queries for evaluating my RAG system's performance?,9b0e2d6a47
+How can I use LLMs to judge the quality of my RAG system's results?,9b0e2d6a47
+What metrics are suitable for evaluating ranking-style problems in RAG systems?,9b0e2d6a47
+What's a good strategy for chunking a large corpus with long PDFs and many paragraphs?,6f2a8b3d10
+How do I handle chunking for long and structured documents like legal or financial papers?,6f2a8b3d10
+What are some tools I can use to parse PDFs into clean markdown before chunking?,6f2a8b3d10
+Should I try to find the perfect chunker before moving forward with my project?,6f2a8b3d10
+How do I know if my chunking strategy is working and how can I improve it?,6f2a8b3d10
+What does reproducibility mean in the context of the capstone project?,e5d8a2c761
+Do I need to share my API keys with peer reviewers?,e5d8a2c761
+How can I make my project reproducible without sharing sensitive credentials?,e5d8a2c761
+What are some best practices for ensuring reproducibility in my project?,e5d8a2c761
+Can I use expensive models for my project or are there specific recommendations?,e5d8a2c761
+Can I do the homework and project in a language other than Python?,ea815eb858
+"What if I want to use JavaScript, TypeScript, Go, Rust, Java, Scala, C#, or R for the course?",ea815eb858
+Do I have to use Python for the capstone project?,ea815eb858
+"Can I use a non-Python language for homework, and what do I need to do?",ea815eb858
+How do I submit a project in a language other than Python and ensure it's easy to review?,ea815eb858
+What are the links to previous LLM Zoomcamp project submissions?,930286278d
+How can I see what previous students have done for their capstone projects?,930286278d
+Are there any examples of completed LLM Zoomcamp capstone projects I can look at?,930286278d
+Where can I find the repositories for previous LLM Zoomcamp projects?,930286278d
+Can I browse through projects from previous years of the LLM Zoomcamp?,930286278d
+Do I have to reserve my project idea before starting it?,897a350476
+Can I get feedback on my project idea before I start working on it?,897a350476
+How can I make sure my project idea is not too similar to others?,897a350476
+Are there any resources I can look at to understand the scope of the project?,897a350476
+What if my project idea is similar to one that was done in a previous year?,897a350476
+What interfaces can I use for my capstone project besides a web app?,7318a90b14
+Can I build a CLI for my project instead of a web app?,7318a90b14
+Are there any restrictions on how I make my project available to users?,7318a90b14
+Will the course cover building interfaces like Telegram or WhatsApp bots?,7318a90b14
+Do I need to know how to build a Slack app or other interfaces for my project?,7318a90b14
+What are some good tools to extract text from PDFs for a RAG project?,d8b28c47a0
+How do I extract text from scanned or OCR documents?,d8b28c47a0
+Can I use Tesseract OCR for text extraction from PDFs?,d8b28c47a0
+What are some alternatives to using a local OCR tool for text extraction?,d8b28c47a0
+How do I choose the best tool for extracting text from my specific PDF documents?,d8b28c47a0
+Can I use the workshop materials for my own projects?,d850a0e7ea
+Can I share the workshop materials with others?,d850a0e7ea
+Can I use dlt for projects outside of this Zoomcamp?,d850a0e7ea
+Is dlt only for loading and storing data?,d850a0e7ea
+Can I use dlt for my MLOps Zoomcamp project?,d850a0e7ea
+What is the command to initialize a new dlt project?,6bceeebf04
+How do I set up a dlt project for loading data from the cloud?,6bceeebf04
+Can I use dlt to load data from cloud storage?,6bceeebf04
+What are the steps to initialize a dlt project with duckdb?,6bceeebf04
+How do I start a new dlt project with filesystem and duckdb?,6bceeebf04
+"I'm getting a FileNotFoundError when trying to open a table, what's going on?",0407213397
+How do I fix the error 'Table does not exist' when using db.open_table?,0407213397
+"I changed the table name in my pipeline settings, but I'm still getting an error, what did I miss?",0407213397
+What happens if I don't update all instances of the old table name in my pipeline?,0407213397
+Why is db.open_table failing even though I'm sure the table exists?,0407213397
+"I'm getting a FileNotFoundError when running main(), what's going on?",e95bfafc0e
+How do I fix the Table notion_pages___homework does not exist error?,e95bfafc0e
+What do I do if db.create_table keeps failing with a FileNotFoundError?,e95bfafc0e
+Why is my dbtable not opening and throwing a FileNotFoundError?,e95bfafc0e
+What is the correct way to open the notion_pages___homework table?,e95bfafc0e
+What's the best way to find all tables in a database?,e394e6f738
+How can I list all the tables in my db?,e394e6f738
+Is there a method to get a list of tables in the database?,e394e6f738
+What method do I use to see all tables in my database?,e394e6f738
+How do I find out what tables are available in my database?,e394e6f738
+Does DLT support ClickHouse or StarRocks out of the box?,cd19f122f3
+Can I use DLT with ClickHouse or StarRocks?,cd19f122f3
+Are there any plans to add ClickHouse or StarRocks connectors to DLT?,cd19f122f3
+How can I integrate ClickHouse or StarRocks with DLT?,cd19f122f3
+Is it possible to add a connector for ClickHouse or StarRocks to DLT myself?,cd19f122f3
+Why does my notebook keep getting a 401 Client Error: Unauthorized when trying to access Notion API?,0dfba07ace
+What do I do if I'm getting a 401 error with my Notion API request?,0dfba07ace
+How can I fix the authorization issue with Notion API in my notebook?,0dfba07ace
+What are the common causes of authorization errors with Notion API?,0dfba07ace
+What should I check first if I'm encountering a 401 error with Notion API?,0dfba07ace
+"I'm getting a 401 Client Error when trying to install requests library, what does it mean and how do I fix it?",4b30b918bc
+Why does pip install requests library version 2.28 instead of 2.32 which is required for lancedb?,4b30b918bc
+How can I install a specific version of the requests library directly from its source on github?,4b30b918bc
+What if my key is correct but I still get a 401 Client Error when installing the requests library?,4b30b918bc
+Is there a way to install version 2.32.3 of the requests library using pip without manually downloading it?,4b30b918bc
